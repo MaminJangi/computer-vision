@@ -12,9 +12,10 @@ Fundamentals of Computer Vision, University of Tehran, fall semester 1405–1406
 | Question | Topic | Notebook | HTML report |
 | --- | --- | --- | --- |
 | 1 | Color spaces, segmentation, contrast, and illumination | [Q1.ipynb](Q1.ipynb) | [Q1.html](Q1.html) |
+| 2 | Document noise, manual filtering, edges, and PSNR | [Q2.ipynb](Q2.ipynb) | [Q2.html](Q2.html) |
 | 3 | Video noise, median filtering, and Gaussian filtering | [Q3.ipynb](Q3.ipynb) | [Q3.html](Q3.html) |
 
-Questions 1 and 3 are complete. Question 2 is handled separately by the teammate and is not included here yet.
+Questions 1, 2, and 3 are complete and included.
 
 ## Run
 
@@ -39,21 +40,22 @@ CA1/
 │   └── park_video.mp4
 ├── Q1.ipynb
 ├── Q1.html
+├── Q2.ipynb
+├── Q2.html
 ├── Q3.ipynb
 ├── Q3.html
 ├── requirements.txt
 └── outputs/
     ├── Q1/
+    ├── Q2/
     └── Q3/
 ```
 
-Question 3 generates `noisy_video.mp4`, `filtered_video_1.mp4` (median), and `filtered_video_2.mp4` (Gaussian) under `outputs/Q3/`. All three retain 450 frames at 30 FPS, 1280 × 720 pixels, and 15 seconds. Noise is added to 5% of spatial pixel positions, split equally between salt and pepper, using a fixed random seed of 42.
-
-The reports discuss parameter choices and limitations, including the Gaussian filter's weakness against salt-and-pepper noise. References appear next to the relevant explanations in the notebooks.
+Saved figures and results are organized by question under `outputs/`. Each notebook contains its methods, parameter choices, results, analysis, and relevant references; detailed experimental settings are kept in the reports rather than repeated here.
 
 ## Submission
 
-The notebooks, HTML reports, source inputs, and generated videos for Questions 1 and 3 are present. Add the teammate's Question 2 work before assembling the complete course submission. The assignment requests a submission folder named `CV-HW1-810102429-810101601`.
+The notebooks, HTML reports, source inputs, and generated videos for all three questions are present. The assignment requests a submission folder named `CV-HW1-810102429-810101601`.
 
 ## References
 

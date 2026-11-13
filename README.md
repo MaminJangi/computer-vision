@@ -8,9 +8,9 @@ Course assignments for **Fundamentals of Computer Vision**, University of Tehran
 
 | Assignment | Work included | Reports |
 | --- | --- | --- |
-| [CA1](CA1/) | Question 1: image color and contrast; Question 3: video noise and restoration | [Q1 notebook](CA1/Q1.ipynb), [Q1 HTML](CA1/Q1.html), [Q3 notebook](CA1/Q3.ipynb), [Q3 HTML](CA1/Q3.html) |
+| [CA1](CA1/) | Questions 1–3: image color and contrast, document denoising and edges, and video restoration | [Q1 notebook](CA1/Q1.ipynb), [Q1 HTML](CA1/Q1.html), [Q2 notebook](CA1/Q2.ipynb), [Q2 HTML](CA1/Q2.html), [Q3 notebook](CA1/Q3.ipynb), [Q3 HTML](CA1/Q3.html) |
 
-This repository contains the whole course folder so future assignments can be added beside `CA1`. CA1 Question 2 is being handled separately by the teammate and is not included yet.
+This repository contains the whole course folder so future assignments can be added beside `CA1`. All three CA1 questions are included, with notebooks and HTML reports.
 
 ## Get started
 
