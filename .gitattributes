@@ -1,0 +1,7 @@
+*.ipynb text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.png binary
+*.mp4 binary
+*.pdf binary
