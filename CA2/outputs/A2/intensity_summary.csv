@@ -1,0 +1,21 @@
+sample_id,stage,p02,p98,zero_pixels,white_pixels
+S001,Input,12.0,221.0,10,10
+S001,A: Median,12.0,221.0,0,0
+S001,B: Gaussian,21.81,221.15,0,0
+S001,B: Gaussian + stretch,0.0,255.0,43,734
+S002,Input,41.0,219.0,7,8
+S002,A: Median,70.0,208.0,0,0
+S002,B: Gaussian,69.19,198.8,0,0
+S002,B: Gaussian + stretch,0.0,254.64,27,26
+S006,Input,12.0,221.0,8,9
+S006,A: Median,51.0,221.0,0,0
+S006,B: Gaussian,44.11,220.17,0,0
+S006,B: Gaussian + stretch,0.0,255.0,31,41
+S010,Input,53.0,180.0,7,7
+S010,A: Median,81.0,170.56,0,0
+S010,B: Gaussian,77.75,171.18,0,0
+S010,B: Gaussian + stretch,0.0,255.0,26,25
+S012,Input,70.0,221.0,13,14
+S012,A: Median,108.0,221.0,0,0
+S012,B: Gaussian,108.79,220.94,0,0
+S012,B: Gaussian + stretch,0.0,255.0,48,61

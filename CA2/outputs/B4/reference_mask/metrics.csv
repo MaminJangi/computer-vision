@@ -1,0 +1,4 @@
+split,n,exact_accuracy,cer,seg_precision,seg_recall,count_agreement,failures,exact_strings,edits,reference_characters
+dev,5,0.0,0.3103448275862069,1.0,1.0,1.0,0,0,9,29
+eval,15,0.13333333333333333,0.39436619718309857,1.0,1.0,1.0,0,2,28,71
+all,20,0.1,0.37,1.0,1.0,1.0,0,2,37,100

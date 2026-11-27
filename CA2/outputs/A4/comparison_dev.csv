@@ -1,0 +1,4 @@
+route,split,n,exact_accuracy,cer,seg_precision,seg_recall,count_agreement,failures,exact_strings,edits,reference_characters
+baseline,dev,5,0.0,0.3448275862068966,1.0,1.0,1.0,0,0,10,29
+A,dev,5,0.0,0.4827586206896552,1.0,1.0,1.0,0,0,14,29
+B,dev,5,0.0,0.4482758620689655,1.0,1.0,1.0,0,0,13,29

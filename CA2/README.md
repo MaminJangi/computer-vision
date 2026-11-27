@@ -15,7 +15,7 @@ python -m pip install -r requirements.txt
 python -m jupyterlab
 ```
 
-Open [CV_HW2_Student.ipynb](CV_HW2_Student.ipynb) in that directory so it can find `data/`. The notebook contains the assignment brief, supplied examples, and implementation and analysis prompts. Dependencies and course data are sufficient for offline execution after setup.
+Open [CV_HW2_Student.ipynb](CV_HW2_Student.ipynb) in that directory so it can find `data/`. The executed notebook includes the assignment brief, implementations, and analysis for A1–A4 and B1–B5. The editable Persian report is [CA2_Report.docx](CA2_Report.docx). Dependencies and course data are sufficient for offline execution after setup.
 
 ## Files
 
@@ -26,7 +26,7 @@ Open [CV_HW2_Student.ipynb](CV_HW2_Student.ipynb) in that directory so it can fi
 | `data/mapset/` | 360 independent templates covering 40 characters |
 | `data/evaluation/` | Reference text, boxes, masks, and oracle crops for evaluation and controlled experiments |
 | `data/diagnostic_part2/` | 17 supplementary masks and evaluation data for Part B |
-| [`outputs/`](outputs/) | Location for generated artifacts |
+| [`outputs/`](outputs/) | Generated masks, overlays, crops, evaluation tables, and frozen configuration |
 
 ## Assignment workflow
 
@@ -36,6 +36,6 @@ Open [CV_HW2_Student.ipynb](CV_HW2_Student.ipynb) in that directory so it can fi
 
 ## Submission
 
-Submit the notebook executed from a fresh kernel with explanations and analysis in its designated cells. The assignment introduction also asks for a standalone, step-by-step report covering each method, parameter choice, intermediate and final results, and failure cases. Include any helper code and the generated `outputs/` folder. Package the files in `CV-HW2-std1-std2` and ZIP that folder for upload.
+Submit the executed notebook and standalone report. Include any helper code and the generated `outputs/` folder with the required CSVs, masks, overlays, crops, and configuration. Package the files in `CV-HW2-std1-std2` and ZIP that folder for upload.
 
 The notebook and data are course-provided materials. Mapset font notices are included in `data/mapset/`.

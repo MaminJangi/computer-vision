@@ -1,0 +1,7 @@
+{
+  "border_fraction": 0.06,
+  "line_min_width_fraction": 0.8,
+  "line_outer_rows_fraction": 0.25,
+  "min_component_area_fraction": 0.003,
+  "text_band_margin_fraction": 0.1
+}

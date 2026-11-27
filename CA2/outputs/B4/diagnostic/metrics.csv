@@ -1,0 +1,2 @@
+split,n,exact_accuracy,cer,seg_precision,seg_recall,count_agreement,failures,exact_strings,edits,reference_characters
+diagnostic,17,0.17647058823529413,0.5714285714285714,0.9074074074074074,1.0,0.8823529411764706,0,3,56,98

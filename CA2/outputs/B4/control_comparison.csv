@@ -1,0 +1,10 @@
+stage,split,n,exact_accuracy,cer,seg_precision,seg_recall,count_agreement,failures,exact_strings,edits,reference_characters
+full,dev,5,0.0,0.3448275862068966,1.0,1.0,1.0,0,0,10,29
+full,eval,15,0.13333333333333333,0.38028169014084506,1.0,1.0,1.0,0,2,27,71
+full,all,20,0.1,0.37,1.0,1.0,1.0,0,2,37,100
+reference_mask,dev,5,0.0,0.3103448275862069,1.0,1.0,1.0,0,0,9,29
+reference_mask,eval,15,0.13333333333333333,0.39436619718309857,1.0,1.0,1.0,0,2,28,71
+reference_mask,all,20,0.1,0.37,1.0,1.0,1.0,0,2,37,100
+oracle,dev,5,0.0,0.3103448275862069,,,,0,0,9,29
+oracle,eval,15,0.13333333333333333,0.39436619718309857,,,,0,2,28,71
+oracle,all,20,0.1,0.37,,,,0,2,37,100

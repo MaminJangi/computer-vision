@@ -1,0 +1,3 @@
+route,filter,window,sigma,radius,boundary,contrast
+A,Median,3 x 3,,,reflect,None
+B,Gaussian,5 x 5,0.65,2,reflect,Stretch P2–P98
