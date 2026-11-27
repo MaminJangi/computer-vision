@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {
+      "label": "1",
+      "box": [
+        7,
+        3,
+        5,
+        14
+      ]
+    },
+    {
+      "label": "7",
+      "box": [
+        17,
+        2,
+        11,
+        15
+      ]
+    },
+    {
+      "label": "2",
+      "box": [
+        30,
+        2,
+        10,
+        15
+      ]
+    },
+    {
+      "label": "5",
+      "box": [
+        42,
+        2,
+        11,
+        15
+      ]
+    }
+  ],
+  "provenance": "Visual image review with manual x partitions; crop of same binary mask; not a pristine glyph reconstruction"
+}

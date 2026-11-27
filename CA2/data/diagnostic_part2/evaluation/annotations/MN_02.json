@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "label": "G",
+      "box": [
+        4,
+        5,
+        28,
+        16
+      ]
+    },
+    {
+      "label": "R",
+      "box": [
+        38,
+        5,
+        25,
+        16
+      ]
+    },
+    {
+      "label": "U",
+      "box": [
+        67,
+        5,
+        25,
+        17
+      ]
+    },
+    {
+      "label": "N",
+      "box": [
+        98,
+        5,
+        24,
+        16
+      ]
+    },
+    {
+      "label": "D",
+      "box": [
+        129,
+        5,
+        27,
+        16
+      ]
+    },
+    {
+      "label": "F",
+      "box": [
+        162,
+        5,
+        22,
+        16
+      ]
+    },
+    {
+      "label": "O",
+      "box": [
+        186,
+        5,
+        30,
+        17
+      ]
+    },
+    {
+      "label": "S",
+      "box": [
+        220,
+        4,
+        26,
+        18
+      ]
+    }
+  ],
+  "provenance": "Visual image review with manual x partitions; crop of same binary mask; not a pristine glyph reconstruction"
+}

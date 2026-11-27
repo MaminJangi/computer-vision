@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {
+      "label": "M",
+      "box": [
+        5,
+        9,
+        17,
+        23
+      ]
+    },
+    {
+      "label": "O",
+      "box": [
+        26,
+        9,
+        17,
+        23
+      ]
+    },
+    {
+      "label": "T",
+      "box": [
+        46,
+        9,
+        14,
+        23
+      ]
+    },
+    {
+      "label": "O",
+      "box": [
+        63,
+        9,
+        17,
+        24
+      ]
+    },
+    {
+      "label": "R",
+      "box": [
+        83,
+        10,
+        16,
+        23
+      ]
+    }
+  ],
+  "provenance": "Visual image review with manual x partitions; crop of same binary mask; not a pristine glyph reconstruction"
+}

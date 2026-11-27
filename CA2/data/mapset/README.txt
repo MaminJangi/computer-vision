@@ -1,0 +1,1 @@
+360 independently rendered templates: 40 characters x 3 DejaVu fonts x 3 raster sizes. Foreground 255, background 0. Normalize using the same function as student characters. Fonts are not inferred from evaluation crops. Punctuation .,/- is included. Font source: Matplotlib bundled DejaVu fonts.

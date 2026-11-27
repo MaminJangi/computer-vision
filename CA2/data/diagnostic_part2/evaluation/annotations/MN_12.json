@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {
+      "label": "W",
+      "box": [
+        0,
+        3,
+        13,
+        12
+      ]
+    },
+    {
+      "label": "2",
+      "box": [
+        14,
+        3,
+        10,
+        12
+      ]
+    },
+    {
+      "label": "2",
+      "box": [
+        25,
+        3,
+        10,
+        12
+      ]
+    }
+  ],
+  "provenance": "Visual image review with manual x partitions; crop of same binary mask; not a pristine glyph reconstruction"
+}

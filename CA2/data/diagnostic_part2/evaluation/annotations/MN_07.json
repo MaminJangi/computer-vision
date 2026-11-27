@@ -1,0 +1,104 @@
+{
+  "characters": [
+    {
+      "label": "B",
+      "box": [
+        6,
+        7,
+        13,
+        18
+      ]
+    },
+    {
+      "label": "O",
+      "box": [
+        21,
+        7,
+        18,
+        18
+      ]
+    },
+    {
+      "label": "I",
+      "box": [
+        42,
+        7,
+        2,
+        18
+      ]
+    },
+    {
+      "label": "L",
+      "box": [
+        48,
+        7,
+        12,
+        17
+      ]
+    },
+    {
+      "label": "E",
+      "box": [
+        62,
+        7,
+        13,
+        17
+      ]
+    },
+    {
+      "label": "R",
+      "box": [
+        79,
+        7,
+        14,
+        18
+      ]
+    },
+    {
+      "label": "M",
+      "box": [
+        96,
+        7,
+        17,
+        18
+      ]
+    },
+    {
+      "label": "A",
+      "box": [
+        116,
+        7,
+        15,
+        18
+      ]
+    },
+    {
+      "label": "K",
+      "box": [
+        133,
+        7,
+        14,
+        18
+      ]
+    },
+    {
+      "label": "E",
+      "box": [
+        150,
+        7,
+        13,
+        18
+      ]
+    },
+    {
+      "label": "R",
+      "box": [
+        167,
+        7,
+        13,
+        18
+      ]
+    }
+  ],
+  "provenance": "Visual image review with manual x partitions; crop of same binary mask; not a pristine glyph reconstruction"
+}

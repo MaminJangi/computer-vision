@@ -1,0 +1,10 @@
+{
+  "seed_rule": "1405000 + numeric sample id",
+  "density": 0.012,
+  "salt_fraction": "ceil(k/2)/k",
+  "pepper_fraction": "floor(k/2)/k",
+  "sampling": "without replacement; salt and pepper locations disjoint",
+  "illumination": "clip(0.82 * grayscale + 12, 0, 255), then cast uint8",
+  "k": "round(0.012 * pixel_count)",
+  "note": "Selected impulse sites may already have the target intensity; selected density differs from measured changed-pixel density."
+}

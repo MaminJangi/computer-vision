@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {
+      "label": "0",
+      "box": [
+        7,
+        6,
+        13,
+        23
+      ],
+      "path": "oracle/S003/000.png"
+    },
+    {
+      "label": ".",
+      "box": [
+        23,
+        23,
+        3,
+        6
+      ],
+      "path": "oracle/S003/001.png"
+    },
+    {
+      "label": "3",
+      "box": [
+        29,
+        6,
+        12,
+        23
+      ],
+      "path": "oracle/S003/002.png"
+    },
+    {
+      "label": "7",
+      "box": [
+        43,
+        5,
+        12,
+        24
+      ],
+      "path": "oracle/S003/003.png"
+    }
+  ],
+  "provenance": "Character boxes reviewed against the supplied TA mask and selected source region; oracle crops come from that mask, not pristine reconstructed glyphs."
+}

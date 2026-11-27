@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "label": "B",
+      "box": [
+        4,
+        4,
+        21,
+        12
+      ]
+    },
+    {
+      "label": "A",
+      "box": [
+        25,
+        4,
+        23,
+        12
+      ]
+    },
+    {
+      "label": "L",
+      "box": [
+        49,
+        4,
+        20,
+        12
+      ]
+    },
+    {
+      "label": "D",
+      "box": [
+        70,
+        4,
+        19,
+        12
+      ]
+    },
+    {
+      "label": "O",
+      "box": [
+        91,
+        4,
+        19,
+        12
+      ]
+    },
+    {
+      "label": "R",
+      "box": [
+        110,
+        4,
+        22,
+        13
+      ]
+    }
+  ],
+  "provenance": "Visual image review with manual x partitions; crop of same binary mask; not a pristine glyph reconstruction"
+}
